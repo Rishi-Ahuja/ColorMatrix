@@ -1,0 +1,4 @@
+#a1{display:table; border:5px solid red ;background-color:black; border-spacing:1px;}
+.b1{display:table-row;}
+.b2{display:table-cell; background-color:white; width:20px; height:20px;}
+.b3{display:inline-block; border:5px solid black; width:30px; height:30px}
